@@ -1,5 +1,5 @@
 # benoetigte-Software-bei-Erstinstalation
-Thunderbird, Gimp, xnview, Chrome, Firefox, Akrobat Raider, 7 Zip, Libreoffice, Teamviewer als PowerShell
+Thunderbird, Gimp, xnview, Chrome, Firefox, Akrobat Raider, 7 Zip, Libreoffice, Teamviewer, PowerShell
 
 Code:
 
