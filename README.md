@@ -1,4 +1,4 @@
-# benoetigte-Software-bei-Erstinstalation
+# benoetigte-Software-bei-Erstinstallation
 Thunderbird, Gimp, xnview, Chrome, Firefox, Akrobat Raider, 7 Zip, Libreoffice, Teamviewer, PowerShell
 
 Code:
